@@ -1,1 +1,3 @@
-Link do projeto [acessar aqui]( https://github.com/anapaulamedeiros/landingpage-chocolate)
+Link do projeto [acessar aqui]( https://anapaulamedeiros.github.io/landingpage-chocolate/)
+
+
